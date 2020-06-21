@@ -54,7 +54,8 @@ p {
   }
 }
 
-@media (min-width: 768px) and (max-width: 991px){
+/***********for tablet**********/
+@media (min-width: 768px) and (max-width: 991px) {
   #chicken, #beef {
     width: 47%;
     float: left;
